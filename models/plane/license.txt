@@ -1,0 +1,11 @@
+Model Information:
+* title:	Mig-23 MLD
+* source:	https://sketchfab.com/3d-models/mig-23-mld-7a13c91f07e042a685b4d265644fdc06
+* author:	Tim Samedov (https://sketchfab.com/citizensnip)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Mig-23 MLD" (https://sketchfab.com/3d-models/mig-23-mld-7a13c91f07e042a685b4d265644fdc06) by Tim Samedov (https://sketchfab.com/citizensnip) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
